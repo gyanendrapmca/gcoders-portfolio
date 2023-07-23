@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gcoders-portfolio/static/css/main.d0a435b3.css",
+    "main.js": "/gcoders-portfolio/static/js/main.1e2921e3.js",
+    "static/media/first-img.jpg": "/gcoders-portfolio/static/media/first-img.0510e54ac62f53023fd8.jpg",
+    "index.html": "/gcoders-portfolio/index.html",
+    "main.d0a435b3.css.map": "/gcoders-portfolio/static/css/main.d0a435b3.css.map",
+    "main.1e2921e3.js.map": "/gcoders-portfolio/static/js/main.1e2921e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0a435b3.css",
+    "static/js/main.1e2921e3.js"
+  ]
+}
